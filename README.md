@@ -18,7 +18,7 @@ Questi sono i siti che stiamo per realizzare.
 - [ ] Liceo linguistico
 - [ ] Liceo artistico
 - [ ] Liceo classico
-- [ ] Equazioni di secondo grado
+- [ ] Equazioni di secondo grado: definizione, usi, esercizi, regole, storia
 - [ ] Microsoft Office
 
 ## ⚠ Disclaimer
