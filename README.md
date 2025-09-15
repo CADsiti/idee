@@ -23,7 +23,6 @@ Questi sono i siti che stiamo per realizzare.
 - [ ] INPS
 - [ ] IVA
 - [ ] CADman vs Tinkermaster
-- [ ] Vaticano
 
 ## ⚠ Disclaimer
 
