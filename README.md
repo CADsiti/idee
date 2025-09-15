@@ -6,5 +6,21 @@ Se hai idee folli o parodie da suggerire, partecipa a una **discussione** nella 
 
 Tutti i contributi sono benvenuti, l’importante è divertirsi 😎
 
+## ✅ To-Do
+
+Questi sono i siti che stiamo per realizzare.
+
+- [ ] TTRG: è la materia più bella del mondo
+- [ ] Personale ATA
+- [ ] PCTO
+- [ ] IPSIA
+- [ ] Liceo scientifico
+- [ ] Liceo linguistico
+- [ ] Liceo artistico
+- [ ] Liceo classico
+- [ ] Equazioni di secondo grado
+- [ ] Microsoft Office
+
 ## ⚠ Disclaimer
+
 Questi siti sono per puro divertimento e non hanno scopo commerciale.
