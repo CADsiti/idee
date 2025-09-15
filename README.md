@@ -22,6 +22,7 @@ Questi sono i siti che stiamo per realizzare.
 - [ ] Microsoft Office
 - [ ] INPS
 - [ ] IVA
+- [ ] CADman vs Tinkermaster
 
 ## ⚠ Disclaimer
 
