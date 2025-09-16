@@ -25,6 +25,7 @@ Questi sono i siti che stiamo per realizzare.
 - [ ] CADman vs Tinkermaster
 - [ ] Liceo economico-sociale
 - [ ] Liceo scienze umane
+- [ ] CADcaverna
 
 ## ⚠ Disclaimer
 
