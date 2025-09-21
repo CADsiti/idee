@@ -6,7 +6,7 @@ Questa è la raccolta ufficiale di idee per i **CADsiti** e gli altri siti parod
 
 Se vuoi dare una mano o proporre idee:
 - Apri una **Issue** in questa repository per segnalare un’idea, un nome divertente o un possibile nuovo sito.
-- Invia una **Pull Request** se vuoi aggiungere contenuti direttamente (ad esempio nuove sezioni o liste di idee).
+- Invia una **Pull Request** se vuoi aggiungere contenuti direttamente (ad esempio nuove sezioni).
 
 Ogni contributo è ben accetto: l’obiettivo è divertirsi e costruire cose buffe insieme 😎
 
